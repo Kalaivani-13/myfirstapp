@@ -1,0 +1,26 @@
+h1{
+    font-size:30px;
+    color:#000000;
+}
+.pic{
+   border-radius:50%;
+   border:0.5px; 
+   color:black;
+}
+img{
+    width:150px;
+    height:150px;
+    object-fit:cover;
+    border-radius: 50%;
+}
+.wet{
+    -webkit-text-fill-color:rbg(20,40,23);
+}
+p{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.Sidebar{
+    width:250px;
+    height:250px;
+}
+    
